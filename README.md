@@ -1,3 +1,4 @@
+[![Build Status](http://ec2-52-59-187-59.eu-central-1.compute.amazonaws.com:8080/buildStatus/icon?job=unaitxu/angular-rails-test-01/master)](http://ec2-52-59-187-59.eu-central-1.compute.amazonaws.com:8080/job/unaitxu/job/angular-rails-test-01/job/master/)
 ## README
 
 This README would normally document whatever steps are necessary to get the
